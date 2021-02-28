@@ -1,0 +1,8 @@
+Z data files that were used to compare XSTAR with Z data, and also published in the 2017 PRL. (Patty, you’ll recognize the filenames in the xstar_read_output.pro file).
+ 
+
+6_tra_compile_ave : average transmission for the Z data over 8 shots. The first column is wavelength in Angstroms and the second column is transmission.
+
+6_tra_compile_std : standard deviation of the 8 transmission measurements, same format as previous file.
+
+Z2786_2787_ave_3mm_length.txt is the emission average data for a 3mm long sample along the emission line-of-sight for 2 shots. The header tells the units. 
